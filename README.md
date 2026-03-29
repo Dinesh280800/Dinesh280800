@@ -81,13 +81,13 @@ spec:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dinesh280800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh280800&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<img width="49%" src="https://github-readme-stats-dinesh280800.vercel.app/api?username=Dinesh280800&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Dinesh280800&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 
 </div>
 
 <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh280800&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+<img width="40%" src="https://github-readme-stats-dinesh280800.vercel.app/api/top-langs/?username=Dinesh280800&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
 </div>
 
 ---
@@ -96,7 +96,7 @@ spec:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dinesh280800&theme=discord&no-frame=true&column=7&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dinesh280800&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
@@ -106,7 +106,7 @@ spec:
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh280800&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinesh280800&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)
 
 </div>
 
