@@ -12,13 +12,12 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fez6/github-profile-summary-cards@v0.6.1
+      - uses: vn7n24fez6/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Dinesh280800
           THEME: tokyonight
-          FORCE: true
 
       - name: Commit and Push
         run: |
