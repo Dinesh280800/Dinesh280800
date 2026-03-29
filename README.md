@@ -94,6 +94,16 @@ spec:
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dinesh280800&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
